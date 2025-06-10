@@ -1,0 +1,18 @@
+[project]
+name = "python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arxiv>=2.2.0",
+    "gradio>=5.33.1",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "langchain>=0.3.25",
+    "langchain-ollama>=0.3.3",
+    "langgraph>=0.4.8",
+    "langmem>=0.0.27",
+    "python-dotenv>=1.1.0",
+    "tavily-python>=0.7.5",
+]
